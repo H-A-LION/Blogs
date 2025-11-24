@@ -1,0 +1,7 @@
+Components of python package:
+- Modules that are python files
+- Initialization file that is __init__.py
+- Sub-packages that are directories follow package in structure
+
+Note: presence of __init__.py in directory makes it python package
+
